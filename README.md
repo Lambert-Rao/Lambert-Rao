@@ -1,5 +1,5 @@
 ## I'm Lambert
-![](https://img.shields.io/badge/main%20language-c%2B%2B-00599C?logo=c%2B%2B) ![](https://img.shields.io/badge/major-network%20programming-E95420?logo=ubuntu) ![](https://img.shields.io/badge/now%20learniing-Rust-000000?logo=rust)
+![](https://img.shields.io/badge/main%20language-c%2B%2B-00599C?logo=c%2B%2B) ![](https://img.shields.io/badge/second%20language-Rust-000000?logo=rust) ![](https://img.shields.io/badge/major-network%20programming-E95420?logo=ubuntu) 
 
 - I am an amateur computer science enthusiast.
 - I am a video game player who enjoys discovering new worlds.
