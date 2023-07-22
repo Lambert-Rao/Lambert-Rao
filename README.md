@@ -15,7 +15,7 @@
 
 <hr>
 
-- Here is my GPG key, which you can use to verify the authenticity of the software I've provided.
+- Here is my PGP key, which you can use to verify the authenticity of the software I've provided.
 
 | ID          | [98ED2991A25309CF48CC09A44B254AA94B59F6FB](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x98ed2991a25309cf48cc09a44b254aa94b59f6fb)                 |
 | ----------- | -------------------------------------------------------- |
