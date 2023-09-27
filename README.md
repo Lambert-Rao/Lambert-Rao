@@ -1,9 +1,8 @@
 ## I'm Lambert
 
-[![main language](https://img.shields.io/badge/main%20language-c%2B%2B-00599C?logo=c%2B%2B)](https://cplusplus.com/)
-[![second language](https://img.shields.io/badge/second%20language-Rust-000000?logo=rust)](https://www.rust-lang.org/)
 [![major network programming](https://img.shields.io/badge/major-network%20programming-F38020?logo=cloudflare)](https://roadmap.sh/backend)
 [![favorite OS](https://img.shields.io/badge/favorite%20OS-Arch%20linux-1793D1?logo=archlinux)](https://archlinux.org/)
+[![contact me](https://img.shields.io/badge/contact%20me-mail-0A84FF?logo=thunderbird)](mailto:lambertrao@outlook.com)
 
 - I am an amateur computer science enthusiast.
 - I am a video game player who enjoys discovering new worlds.
