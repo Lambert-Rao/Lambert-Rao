@@ -9,12 +9,9 @@
 - I am a back-end network programming learner with a passion for developing efficient network applications.
 - I'm also a fan of open-source culture like almost everyone here.
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Lambert-Rao&show_icons=true&line_height=20)](https://github.com/Lambert-Rao)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambert-rao&layout=compact&hide=Assembly)](https://github.com/Lambert-Rao)
-
 <hr>
 
-- Here is my PGP key, which you can use to verify the authenticity of the software I've provided.
+- Here is my PGP key, which you can use to verify my identity。
 
 | ID          | [98ED2991A25309CF48CC09A44B254AA94B59F6FB](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x98ed2991a25309cf48cc09a44b254aa94b59f6fb)                 |
 | ----------- | -------------------------------------------------------- |
