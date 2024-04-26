@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin-top: 50vh;
+  transform: translateY(-50%);
+  background: aqua;
+}
+
+.avatar-container {
+  flex: 1;
+}
+
+.title-container {
+  flex: 3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.main-title {
+  /* Define styles for your main title */
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.sub-title {
+  /* Define styles for your sub title */
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}

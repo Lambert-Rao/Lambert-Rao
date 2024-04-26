@@ -1,0 +1,10 @@
+.card {
+  /* 定义卡片的初始样式 */
+  background-color: transparent;
+}
+
+.card.hovered {
+  /* 定义鼠标悬停时卡片的样式 */
+
+  background-color: red;
+}
