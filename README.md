@@ -1,4 +1,4 @@
-## I'm Lambert
+i## I'm Lambert
 
 [![major network programming](https://img.shields.io/badge/major-network%20programming-F38020?logo=cloudflare)](https://roadmap.sh/backend)
 [![favorite OS](https://img.shields.io/badge/favorite%20OS-Arch%20linux-1793D1?logo=archlinux)](https://archlinux.org/)
@@ -13,8 +13,8 @@
 
 - Here is my PGP key, which you can use to verify my identity。
 
-| ID          | [98ED2991A25309CF48CC09A44B254AA94B59F6FB](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x98ed2991a25309cf48cc09a44b254aa94b59f6fb)                 |
+| ID          | [AEF095FB47ECE12D417AD7F43B96BFED5F079E56](https://keyserver.ubuntu.com/pks/lookup?search=lambertrao&fingerprint=on&op=index)                 |
 | ----------- | -------------------------------------------------------- |
 | uid         | LambertRao (Lambert's main key) <lambertrao@outlook.com> |
-| fingerprint | 98ED 2991 A253 09CF 48CC  09A4 4B25 4AA9 4B59 F6FB       |
+| fingerprint | AEF0 95FB 47EC E12D 417A  D7F4 3B96 BFED 5F07 9E56       |
 | key server  | hkps://keyserver.ubuntu.com                              |
