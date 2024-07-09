@@ -2,11 +2,11 @@ import React, { useState } from 'react';
 import '../style/Card.css';
 
 interface CardProps {
-  content: string;
   onHover: () => void;
+  children: React.ReactNode; // 添加children属性
 }
 
-const Card: React.FC<CardProps> = ({ content, onHover }) => {
+const Card: React.FC<CardProps> = ({ onHover, children }) => {
   const [isHovered, setIsHovered] = useState(false);
 
   const handleMouseEnter = () => {
@@ -24,7 +24,7 @@ const Card: React.FC<CardProps> = ({ content, onHover }) => {
           onMouseEnter={handleMouseEnter}
           onMouseLeave={handleMouseLeave}
       >
-        {content}
+        {children} {/* 使用children属性 */}
       </div>
   );
 };

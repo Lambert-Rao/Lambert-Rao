@@ -1,10 +1,12 @@
+/* Card.css */
 .card {
-  /* 定义卡片的初始样式 */
-  background-color: transparent;
+  width: 200px;
+  height: 200px;
+  background-color: cornflowerblue;
+  flex: 1 0 24%; /* 每个卡片尽可能地占据24%的宽度 */
+  margin: 1%; /* 添加1%的外边距，以创建卡片之间的间距 */
 }
 
 .card.hovered {
-  /* 定义鼠标悬停时卡片的样式 */
-
-  background-color: red;
+  filter: brightness(0.8); /* 80% of the original brightness */
 }

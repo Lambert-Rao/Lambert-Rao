@@ -1,9 +1,11 @@
 .gallery {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 50%;
-  margin-top: 50vh;
-  transform: translateY(-50%);
-  background: #2a6262;
+  flex-direction: row; /* 设置为横向排列 */
+  flex-wrap: nowrap; /* 所有的卡片都会在一行内显示，不会自动换行 */
+  justify-content: space-between; /* 自动调整卡片之间的间距 */
+}
+
+.card {
+  flex: 0 0 auto; /* 每个卡片的宽度会根据其内容自动调整 */
+  margin: 1%; /* 添加1%的外边距，以创建卡片之间的间距 */
 }
