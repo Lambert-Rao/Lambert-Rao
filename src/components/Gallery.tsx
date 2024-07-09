@@ -6,8 +6,145 @@ const Gallery: React.FC = () => {
   return (
       <div className={"gallery"}>
         hello
-        <Card content={"Card 1"}/>
+        <Card content={"Card 1"} onHover={function (): void {
+          throw new Error('Function not implemented.');
+        }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/><Card content={"Card 1"} onHover={function (): void {
+        throw new Error('Function not implemented.');
+      }}/>
       </div>
+
   );
 };
 

@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react';
+import {useState, useEffect} from 'react';
 import './App.css';
 import Gallery from "./components/Gallery.tsx";
 import Header from "./components/Header.tsx";
@@ -18,12 +18,12 @@ function App() {
   }
 
 
-  const galleryStyle = {
-    position: 'absolute',
-    top: '100%',
-    left: '0',
-    transform: `translateY(-${scrollY / 2}px)`
-  };
+  // const galleryStyle = {
+  //   position: 'absolute',
+  //   top: '100%',
+  //   left: '0',
+  //   transform: `translateY(-${scrollY / 2}px)`
+  // };
 
   return (
       <div className="app">
