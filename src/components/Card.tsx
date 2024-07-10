@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../style/Card.css';
+import '@/style/Card.css';
 
 interface CardProps {
   onHover: () => void;

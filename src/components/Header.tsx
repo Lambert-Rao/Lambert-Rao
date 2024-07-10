@@ -1,11 +1,12 @@
 import React from 'react';
-import '../style/Header.css';
+import '@/style/Header.css';
+import avatarImg from '@/assets/logo_animated.svg';
 
 const Header: React.FC = () => {
   return (
       <div className="header">
         <div className="avatar-container">
-          <img src="src/assets/logo_animated.svg" alt="Avatar" className="avatar"/>
+          <img src={avatarImg} alt="Avatar" className="avatar"/>
         </div>
         <div className="title-container">
           <h1 className="main-title">Lambert's Home</h1>

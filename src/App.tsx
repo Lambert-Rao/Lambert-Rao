@@ -1,7 +1,7 @@
 import {useState, useEffect} from 'react';
-import './App.css';
-import Gallery from "./components/Gallery.tsx";
-import Header from "./components/Header.tsx";
+import '@/App.css';
+import Gallery from "@/components/Gallery.tsx";
+import Header from "@/components/Header.tsx";
 
 function App() {
   const [scrollY, setScrollY] = useState(0);

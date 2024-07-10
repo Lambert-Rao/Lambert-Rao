@@ -1,7 +1,7 @@
 import React from 'react';
-import Card from '../Card';
-import '../../style/cards/GithubCard.css';
-import githubLogo from '../../assets/github-mark.svg';
+import Card from '@/components/Card';
+import '@/style/cards/GithubCard.css';
+import githubLogo from '@/assets/github-mark.svg';
 
 interface GithubCardProps {
   username: string;

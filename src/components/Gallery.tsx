@@ -1,6 +1,6 @@
 import React from 'react';
-import Card from "./Card.tsx";
-import GithubCard from "./cards/GithubCard.tsx";
+import Card from "@/components/Card.tsx";
+import GithubCard from "@/components/cards/GithubCard.tsx";
 
 const Gallery: React.FC = () => {
   return (
