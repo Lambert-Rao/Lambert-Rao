@@ -5,7 +5,7 @@
   width: 70vw;
   margin-top: 20vh;
   transform: translateX(-5%);
-  border-radius: calc(5vw + 5vh);
+  border-radius: calc(min(5vw + 5vh,50px));
   overflow: hidden;
   background-color: rgba(87, 87, 255, 0.5); /* Add transparency to the background color */
   backdrop-filter: blur(10px); /* Add blur effect */
