@@ -1,8 +1,9 @@
-i## I'm Lambert
+## I'm Lambert
 
 [![major network programming](https://img.shields.io/badge/major-network%20programming-F38020?logo=cloudflare)](https://roadmap.sh/backend)
 [![favorite OS](https://img.shields.io/badge/favorite%20OS-Arch%20linux-1793D1?logo=archlinux)](https://archlinux.org/)
 [![contact me](https://img.shields.io/badge/contact%20me-mail-0A84FF?logo=thunderbird)](mailto:lambertrao@outlook.com)
+[![Matrix](https://img.shields.io/badge/Matrix-%40lambertrao%3Amatrix.org-brightgreen?logo=matrix)](https://matrix.to/#/@lambertrao:matrix.org)
 
 - I am an amateur computer science enthusiast.
 - I am a video game player who enjoys discovering new worlds.
