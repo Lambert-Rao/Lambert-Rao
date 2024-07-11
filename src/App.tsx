@@ -17,13 +17,10 @@ function App() {
     return `blur(${blur}px)`;
   }
 
-
-  // const galleryStyle = {
-  //   position: 'absolute',
-  //   top: '100%',
-  //   left: '0',
-  //   transform: `translateY(-${scrollY / 2}px)`
-  // };
+  const aspectRatio = window.innerWidth / window.innerHeight;
+  if (aspectRatio < 1/2) {
+    return <div>好细的屏幕！</div>;
+  }
 
   return (
       <div className="app">

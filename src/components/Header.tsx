@@ -11,6 +11,7 @@ const Header: React.FC = () => {
         <div className="title-container">
           <h1 className="main-title">Lambert's Home</h1>
           <h2 className="sub-title">この宇宙を抱いて輝く  少年よ神話になれ</h2>
+          <h1 className="mobile-title">Lambert</h1>
         </div>
       </div>
   );

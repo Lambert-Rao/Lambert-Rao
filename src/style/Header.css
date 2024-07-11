@@ -2,10 +2,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 70%;
-  margin-top: 50vh;
-  transform: translateY(-100%) translateX(-5%);
-  border-radius: 50px / 50px;
+  width: 70vw;
+  margin-top: 20vh;
+  transform: translateX(-5%);
+  border-radius: calc(5vw + 5vh);
   overflow: hidden;
   background-color: rgba(87, 87, 255, 0.5); /* Add transparency to the background color */
   backdrop-filter: blur(10px); /* Add blur effect */
@@ -39,4 +39,34 @@
   /* Define styles for your sub title */
   font-family: Arial, sans-serif;
   font-size: 32px;
+}
+@media only screen and (max-aspect-ratio: 1) {
+  .header {
+    flex-direction: column;
+    align-items: center;
+  }
+  .header .avatar-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 12%;
+    flex: 2;
+    transform: none;
+  }
+
+  .header .title-container .main-title,
+  .header .title-container .sub-title {
+    display: none;
+  }
+
+  .header .title-container .mobile-title {
+    flex: 3;
+    display: block;
+    text-align: center; /* Center the title */
+  }
+}
+
+@media only screen and (min-aspect-ratio: 1) {
+  .header .title-container .mobile-title {
+    display: none; /* Hide the mobile title in desktop mode */
+  }
 }

@@ -7,6 +7,7 @@ body, html {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: flex-start;
   width: 100%;
   min-height: 100vh;
   background-color: transparent;
@@ -24,3 +25,8 @@ body, html {
   z-index: -1;
 }
 
+@media only screen and (max-aspect-ratio: 9/16) {
+  .background {
+    background-image: url('./assets/back-mobile.png');
+  }
+}
