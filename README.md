@@ -5,10 +5,10 @@
 [![contact me](https://img.shields.io/badge/contact%20me-mail-0A84FF?logo=thunderbird)](mailto:lambertrao@outlook.com)
 [![Matrix](https://img.shields.io/badge/Matrix-%40lambertrao%3Amatrix.org-brightgreen?logo=matrix)](https://matrix.to/#/@lambertrao:matrix.org)
 
-- I am an amateur computer science enthusiast.
-- I am a video game player who enjoys discovering new worlds.
-- I am a back-end network programming learner with a passion for developing efficient network applications.
-- I'm also a fan of open-source culture like almost everyone here.
+- I am not an amateur computer science enthusiast.
+- I am not a video game player who enjoys discovering new worlds.
+- I am not a back-end network programming learner with a passion for developing efficient network applications.
+- I'm also not a fan of open-source culture like almost everyone here.
 
 <hr>
 
